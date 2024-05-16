@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -107981364, guid: 7f448572ea9eb4f94a29da7a37eed74a, type: 3}
+  m_Name: UDP Settings
+  m_EditorClassIdentifier: 
+  UnityProjectID: 2b979739-24be-4d68-b05a-6114a099a988
+  UnityClientID: JHIRi6qxi_nbgfnKTVAodQ
+  UnityClientKey: bYXk4moJ_jkFHBlX9t5LYAPkxvFECTw6lPtn20NF0es
+  UnityClientRSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApclU9r+aoeJfI67/lOW2DnoEAEb728kqlK7GUF5JrFZSYUkgwrZOFsw0kNDnDR5DKqNWJ/0cL7BXTmDkQi682rVEt4gHvSSPrSmv86WqDChULkShbfszYKpCocjaeXWLOj1MLtNeTrPClViwbUbeAELkKyjecfJyJd9Kt8r9dpUd1IW+D8eaHC5uSfZKfx/Tpxmd7jv0mRfloXfVewuiHWQHECCdtuIpxdZ9nFnU5x9zcXfKyfcUr9QkLzUrKgeWFP+cNiqyWT2pombIXwY79hTXm66cgDeWjV7jVYdV5TTRCecfEmBopPfAMM4TzUIkT11zYaMF0kXK5798fHul3QIDAQAB
+  AppName: Sparrow-Jump
+  AppSlug: 6cc6c12c-e6a7-426b-9541-6ecc38ff18a6
+  AppItemId: 65f8220069229941ec0d40d1
+  Permission: 
